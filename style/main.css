@@ -1,6 +1,12 @@
 body{
     background:rgb(80,80,80);
 }
+#youtube{
+padding:10px;
+float:left;
+margin-left:300px;
+border:5px solid gray;
+}
 
 header{
     background-color: black;
